@@ -5,3 +5,4 @@ add buffer for mobs farm
 add close thread if not in use 
 delay pick up drops to increase performance 
 remove blur when kicked so you can check F9 or Dex
+dungeon specific script which will not use general trigger
